@@ -23,3 +23,4 @@
 
 ## 😈 Community
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=red)](https://discord.gg/VdZ64DcWs2)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white&color=red)](https://t.me/evilteamd)
